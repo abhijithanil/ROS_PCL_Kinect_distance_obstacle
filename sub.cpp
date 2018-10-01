@@ -1,7 +1,7 @@
 /*
 *author: Abhi alias Faize. 
 *email: info@aiinspired.com
-******* abhijith.anjana@gmail.com
+******* inspired.ai@gmail.com
 */
 /* Explanation
 * Have a better understanding about the Coordinate Frame Conventions for camera :http://www.ros.org/reps/rep-0103.html
